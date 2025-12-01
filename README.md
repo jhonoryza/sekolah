@@ -2,6 +2,15 @@
 
 ## Sekolah TK
 
+### TK ISLAM TERPADU ATTAUBAH SMART
+
+- lokasi dekat kimiafarma cingcin
+- [map](https://www.google.com/maps/place/SDIT+At-taubah+SMART+Cihurip/data=!4m2!3m1!1s0x0:0x34a595ba5f1c422?sa=X&ved=1t:2428&ictx=111)
+- [instagram](https://www.instagram.com/kbtkattaubahsmart/)
+- akreditasi blm ada
+- [kemendik](https://referensi.data.kemendikdasmen.go.id/tppk/tppk/anggota/70055940)
+- [sekolahkita](https://sekolah.data.kemendikdasmen.go.id/profil-sekolah/6E6BFA75-06D8-4D17-BA46-2667AC1F7A62)
+
 ### TK Plus Darul Ihsan Yuppi
 
 - lokasi dekat alfamidi
@@ -17,6 +26,8 @@
 - [instagram](https://www.instagram.com/sekolahtahfidz_soreang/?hl=id)
 - [youtube](https://www.youtube.com/channel/UC14QaIRCt0i2DSjrm8K9ykQ)
 - [video mpls](https://www.youtube.com/watch?v=m3sSGFjeom0)
+- akreditasi blm ada
+- kemendik blm ada
 
 #### biaya
 
@@ -35,6 +46,9 @@
 - lokasi deket polsek
 - [map](https://www.google.com/maps/place/SDIT+Al-taftazani/data=!4m2!3m1!1s0x0:0xa8622c16aae08561?sa=X&ved=1t:2428&ictx=111)
 - [instagram](https://www.instagram.com/official_tkaltaftazani/)
+- akreditasi blm ada
+- kemendik tk blm ada
+- [kemendik kb](https://dapo.kemendikdasmen.go.id/sekolah/57DF9D255D5DEB193C14)
 
 ### TKIT Bahtera Nuh
 
