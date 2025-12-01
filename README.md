@@ -8,6 +8,7 @@
 - [map](https://www.google.com/maps/place/TK+Plus+Darul+Ihsan+Yuppi/data=!4m2!3m1!1s0x0:0x7b8cba84cb9b4c7b?sa=X&ved=1t:2428&ictx=111)
 - [facebook](https://www.facebook.com/tkplusdarulihsanyuppi.yuppi/)
 - [akreditasi](https://ban-pdm.id/satuanpendidikan/20256219)
+- [kemendik](https://dapo.kemendikdasmen.go.id/sekolah/2867C023F2A7C7320F0E)
 
 ### TK TAUD SaQu Mukmin Kreatif
 
@@ -27,13 +28,13 @@
 - [map](https://www.google.com/maps/place/TKN+Percontohan+Soreang+Kab+Bandung/data=!4m2!3m1!1s0x0:0xdcaadfd56b8add90?sa=X&ved=1t:2428&ictx=111)
 - [instagram](https://www.instagram.com/tkn_percontohansoreang/)
 - [akreditasi](https://ban-pdm.id/satuanpendidikan/69989980)
+- [kemendik](https://dapo.kemendikdasmen.go.id/sekolah/124F558467A03F7C1900)
 
 ### TKIT Al Taftazani
 
 - lokasi deket polsek
 - [map](https://www.google.com/maps/place/SDIT+Al-taftazani/data=!4m2!3m1!1s0x0:0xa8622c16aae08561?sa=X&ved=1t:2428&ictx=111)
 - [instagram](https://www.instagram.com/official_tkaltaftazani/)
-- [akreditasi](https://ban-pdm.id/satuanpendidikan/69919439)
 
 ### TKIT Bahtera Nuh
 
@@ -41,6 +42,7 @@
 - [map](https://www.google.com/maps/place/SDIT+dan+TKIT+Bahtera+Nuh/data=!4m2!3m1!1s0x0:0x45d1a8e54ba30fd6?sa=X&ved=1t:2428&ictx=111)
 - [instagram](https://www.instagram.com/tkitbahteranuh/)
 - [akreditasi](https://ban-pdm.id/satuanpendidikan/69928300)
+- [kemendik](https://dapo.kemendikdasmen.go.id/sekolah/192C9FC6F8EF7C47AA10)
 
 ### TK Al Istiqomah VI
 
@@ -48,12 +50,14 @@
 - [map](https://www.google.com/maps/place/TK+Al-Istiqomah+VI/data=!4m2!3m1!1s0x0:0xb2ed26d2ac75f7d5?sa=X&ved=1t:2428&ictx=111)
 - [instagram](https://www.instagram.com/tkal_istiqomahenam/)
 - [akreditasi](https://ban-pdm.id/satuanpendidikan/20258585)
+- [kemendik](https://referensi.data.kemendikdasmen.go.id/residu/satuanpendidikan/detail/20258585)
 
 ### TK Al Istiqomah IV
 
 - lokasi cipeer
 - [instagram](https://www.instagram.com/tkalistiqomahiv/)
 - [akreditasi](https://ban-pdm.id/satuanpendidikan/20255975)
+- [kemendik](https://dapo.kemendikdasmen.go.id/sekolah/BDBBA9E162DCCB8D7011)
 
 ## Sekolah SD
 
@@ -63,6 +67,7 @@
 - [map](https://www.google.com/maps/place/SDIT+Al+Huda+Cipetir+Soreang/data=!4m2!3m1!1s0x0:0x81105c312e4394d?sa=X&ved=1t:2428&ictx=111)
 - [instagram](https://www.instagram.com/sditalhudacipetir/?hl=id)
 - [akreditasi](https://ban-pdm.id/satuanpendidikan/69980251)
+- [kemendik](https://referensi.data.kemendikdasmen.go.id/pendidikan/npsn/20231544)
 
 ### SDIT Mukmin Kreatif
 
@@ -71,6 +76,7 @@
 - [website](https://www.mukminkreatif.sch.id/)
 - [instagram](https://www.instagram.com/sditmukminkreatif/)
 - [akreditasi](https://ban-pdm.id/satuanpendidikan/69978380)
+- [kemendik](https://referensi.data.kemendikdasmen.go.id/pendidikan/npsn/69978380)
 
 ### MIS Al Islam Yuppi
 
@@ -78,6 +84,7 @@
 - [map](https://www.google.com/maps/place/MIS+AL+ISLAM+YUPPI/data=!4m2!3m1!1s0x0:0x89768335cd6549e4?sa=X&ved=1t:2428&ictx=111)
 - [instagram](https://www.instagram.com/misalislamyuppi/)
 - [akreditasi](https://ban-pdm.id/satuanpendidikan/60707852)
+- [kemendik](https://referensi.data.kemendikdasmen.go.id/pendidikan/npsn/60707852)
 
 ### SDIT Al Taftazani
 
@@ -85,6 +92,7 @@
 - [map](https://www.google.com/maps/place/SDIT+Al-taftazani/data=!4m2!3m1!1s0x0:0xa8622c16aae08561?sa=X&ved=1t:2428&ictx=111)
 - [instagram](https://www.instagram.com/mediaaltaftazani/)
 - [akreditasi](https://ban-pdm.id/satuanpendidikan/69919439)
+- [kemendik](https://referensi.data.kemendikdasmen.go.id/pendidikan/npsn/69919439)
 
 ### SDIT Bahtera Nuh
 
@@ -92,3 +100,4 @@
 - [map](https://www.google.com/maps/place/SDIT+dan+TKIT+Bahtera+Nuh/data=!4m2!3m1!1s0x0:0x45d1a8e54ba30fd6?sa=X&ved=1t:2428&ictx=111)
 - [instagram](https://www.instagram.com/sdit_bahteranuh/)
 - [akreditasi](https://ban-pdm.id/satuanpendidikan/69928297)
+- [kemendik](https://referensi.data.kemendikdasmen.go.id/pendidikan/npsn/69928297)
